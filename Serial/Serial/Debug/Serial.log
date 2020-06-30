@@ -1,0 +1,2 @@
+﻿  SerialDlg.cpp
+c:\users\user\documents\visual studio 2015\projects\serial\serial\serialdlg.cpp(166): error C2661: 'CPYH_Comm::CPYH_Comm': 오버로드된 함수에서 6개의 매개 변수를 사용하지 않습니다.

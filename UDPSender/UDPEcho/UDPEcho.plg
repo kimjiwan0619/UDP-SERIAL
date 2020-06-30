@@ -1,0 +1,30 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: UDPEcho - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPE.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/UDPEcho.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\Language\C++\만든강좌\UDP 소켓통신_src\UDPSocket.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPE.tmp" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/UDPEcho.pdb" /debug /machine:I386 /out:"Debug/UDPEcho.exe" /pdbtype:sept  ".\Debug\StdAfx.obj" ".\Debug\UDPEcho.obj" ".\Debug\UDPEchoDlg.obj" ".\Debug\UDPSocket.obj" ".\Debug\UDPEcho.res" "
+<h3>Output Window</h3>
+Compiling...
+UDPSocket.cpp
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/UDPEcho.bsc"  ".\Debug\StdAfx.sbr" ".\Debug\UDPEcho.sbr" ".\Debug\UDPEchoDlg.sbr" ".\Debug\UDPSocket.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+UDPEcho.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
